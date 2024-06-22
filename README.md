@@ -20,4 +20,4 @@ The different things I've learned about so far during this project contain:
 Josh Taylor
 
 ## References
-Huge thanks to [Steven Ulibarri](https://www.udemy.com/user/stephen-ulibarri-3/) for awesome instruction and very detail oriented classes. 
+Huge thanks to [Stephen Ulibarri](https://www.udemy.com/user/stephen-ulibarri-3/) for awesome instruction and very detail oriented classes. 
