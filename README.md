@@ -17,5 +17,7 @@ The different things I've learned about so far during this project contain:
 - Skeletal Meshes and adding sockets to skeletal meshes to combine character meshes and weapon meshes
 
 ## Contributors
+Josh Taylor
 
+## References
 Huge thanks to [Steven Ulibarri](https://www.udemy.com/user/stephen-ulibarri-3/) for awesome instruction and very detail oriented classes. 
